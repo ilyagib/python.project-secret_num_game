@@ -1,4 +1,4 @@
-# python.project
+# Python Pygame Collection: Tic-Tac-Toe & Bagels
 Python Pygame Collection: Classic Games 🎮
 This repository features two interactive desktop games developed in Python. The project showcases my transition from console-based logic to Graphical User Interfaces (GUI) using the Pygame library, which I mastered through independent study.
 
