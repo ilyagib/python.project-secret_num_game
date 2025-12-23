@@ -40,18 +40,18 @@ Algorithms: Logic for win-conditions and pattern matching for clues.
 Prerequisites
 Make sure you have Python and Pygame installed:
 
-Bash
+Bash:
 
 pip install pygame
 Running the Games
 To play Tic-Tac-Toe:
 
-Bash
+Bash:
 
 python TIC-TAC-TOE.py
 To play Bagels:
 
-Bash
+Bash:
 
 python BAGELS_GAME.py
 📖 Independent Study Focus
